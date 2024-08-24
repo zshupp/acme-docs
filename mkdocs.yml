@@ -28,3 +28,7 @@ theme:
 
 plugins:
   - search
+
+extra:
+  version:
+    provider: mike
